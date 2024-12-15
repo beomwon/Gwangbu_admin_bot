@@ -1,2 +1,0 @@
-# Gwangbu_admin_bot
-discord_gwangbu_admin_bot

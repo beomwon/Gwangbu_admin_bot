@@ -1,0 +1,69 @@
+# OS 환경별 임시 파일
+##########################
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Node.js (JavaScript 프로젝트)
+##########################
+node_modules/
+
+# Python (Python 프로젝트)
+##########################
+.env*
+.admin_discord_bot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Java (Java 프로젝트)
+##########################
+*.class
+*.jar
+*.war
+*.ear
+*.idea/
+
+# IDE 및 에디터 설정
+##########################
+# JetBrains IDEs (IntelliJ, PyCharm 등)
+.idea/
+
+# VSCode
+.vscode/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Eclipse
+*.log
+*.classpath
+*.project
+.settings/
+
+# 빌드 파일 및 디렉토리
+##########################
+# 빌드 결과물
+bin/
+obj/
+build/
+dist/
+
+# 기타
+##########################
+# 로그 파일
+*.log
+
+# 임시 파일
+*.bak
+*.swp
+*.tmp
